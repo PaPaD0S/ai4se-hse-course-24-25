@@ -13,3 +13,10 @@ __pycache__/
 
 *.csv
 *.cfg
+
+lib/
+01-toxic-review-classification/lib
+bin/
+01-toxic-review-classification/bin/
+01-toxic-review-classification/share
+.DS_store
